@@ -1,36 +1,51 @@
-# my-project
+# TraderApp
 
-This project is designed to provide a comprehensive solution for [insert project purpose here]. 
+A trading application built with Node.js.
 
 ## Features
+- Trading functionality (in development)
+- Market data analysis
+- Portfolio management
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+## Tech Stack
+- Node.js
+- Jest (for testing)
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+### Prerequisites
+- Node.js >= 14.x
+- npm >= 6.x
 
-1. Clone the repository:
-   ```
-   git clone [repository-url]
-   ```
+### Installation
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/TraderApp.git
+```
 
-2. Navigate to the project directory:
-   ```
-   cd my-project
-   ```
+2. Install dependencies
+```bash
+npm install
+```
 
-3. Install the dependencies:
-   ```
-   npm install
-   ```
+### Running the Application
+```bash
+npm start
+```
 
-4. Run the application:
-   ```
-   npm start
-   ```
+### Running Tests
+```bash
+npm test
+```
+
+## Project Structure
+```
+my-project/
+├── src/           # Source code
+├── tests/         # Test files
+├── docs/          # Documentation
+└── package.json   # Project dependencies
+```
 
 ## Usage
 

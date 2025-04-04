@@ -1,38 +1,25 @@
-# my-project/docs/README.md
+# TraderApp
 
-# My Project
+A trading application built with [add your tech stack here].
 
-## Overview
-This project is designed to provide [brief description of the project]. It aims to [project goals or objectives].
+## Getting Started
 
-## Setup Instructions
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/my-project.git
-   ```
-2. Navigate into the project directory:
-   ```
-   cd my-project
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
+### Prerequisites
+- Node.js
+- [Other dependencies]
 
-## Usage
-To run the application, use the following command:
-```
-node src/index.js
+### Installation
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/my-project.git
 ```
 
-## Running Tests
-To execute the unit tests, run:
-```
-npm test
+2. Install dependencies
+```bash
+npm install
 ```
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Running the Application
+```bash
+npm start
+```
